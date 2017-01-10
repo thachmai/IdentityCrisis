@@ -1,0 +1,2 @@
+git config user.name "Linus Torvalds"
+git config user.email "torvalds@linux-foundation.org"
